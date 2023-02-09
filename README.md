@@ -1,5 +1,9 @@
 # valores-de-imoveis-arvores-de-decisao-regressao
 
+Previsão do valor dos imóveis utilizando árvores de decisão e regressão
+
+Base de dados (scikit learn):
+
 | Variavel | Descrição|
 |-|-|
 |CRIM| taxa de crimes per-cápita da cidade | 
